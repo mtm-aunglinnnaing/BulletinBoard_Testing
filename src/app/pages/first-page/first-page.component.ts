@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./first-page.component.scss']
 })
 export class FirstPageComponent implements OnInit {
-  public testingVar= 'testing var'
+  public testingVar= 'testing var testing component'
   constructor() { }
 
   ngOnInit(): void {
